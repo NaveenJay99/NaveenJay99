@@ -51,25 +51,18 @@
 
 ### Programming Languages
 
+<!--
+<div align="center" style="background-color:#f5f5f5; padding:10px;">
 
-<div align="center" style="background-color:#f5f5f5" >
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin:0 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin:0 15px;"/>
 
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"/>
-  <img width="30"/> 
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" margin-left=100px/>
-  <img width="30"/> 
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-  <img width="30"/> 
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-  <img width="30"/> 
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-  <img width="30"/> 
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-  <img width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
-  <img width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  
 </div>
 
 ### Frontend
@@ -165,7 +158,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </div>
 
-
+-->
 
 ---
 
