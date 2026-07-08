@@ -18,6 +18,58 @@
 
 ---
 
+---
+ 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=A9A9A9&background=0E1117&center=false&vCenter=true&width=1100&lines=%24+tech+stack+&repeat=false&cursor=|&duration=4000" alt="Typing SVG" />
+</p>
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![.NET/WPF](https://img.shields.io/badge/WPF%20(.NET)-512BD4?style=flat&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**AI/ML & Data**
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Other Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=A9A9A9&background=0E1117&center=false&vCenter=true&width=1100&lines=%24+stay+connected+with+me+&repeat=false&cursor=|&duration=4000" alt="Typing SVG" />
 </p>
@@ -43,13 +95,6 @@
 </p>
 <br/>
 
----
- 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=A9A9A9&background=0E1117&center=false&vCenter=true&width=1100&lines=%24+tech+stack+&repeat=false&cursor=|&duration=4000" alt="Typing SVG" />
-</p>
-
-### Programming Languages
 
 <!--
 <div align="center" style="background-color:#f5f5f5; padding:10px;">
@@ -166,9 +211,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=A9A9A9&background=0E1117&center=false&vCenter=true&width=1100&lines=%24+github+stats+&repeat=false&cursor=|&duration=4000" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenJay99&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenJay99&theme=vue-dark" alt="GitHub Streak" />
